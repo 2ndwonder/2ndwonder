@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @2ndwonder
-- 👀 I’m interested in Network engineering
-- 🌱 I’m currently learning CompTIA A+ Network
+- 👀 I’m interested in Front-end web development
 
 <!---
 2ndwonder/2ndwonder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
